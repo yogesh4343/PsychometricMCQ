@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "title":"Psychometric Idel Career Test",
+        "img":"https://www.careerguide.com/disha/Career_Test.jpg",
+        "questions":"180",
+        "minutes":"160",
+        "price":"2000",
+        "discount":"1000",
+        "Button":"For All Age Groups"
+},
+    {
+        "id":2,
+        "title":"Psychometric Skill Based Test For 9th",
+        "img":"https://www.careerguide.com/disha/skill-based-career-test-1.jpg",
+        "questions":"40",
+        "minutes":"30",
+        "price":"2000",
+        "discount":"1000",
+        "Button":"For Class 9th"
+},
+    {
+        "id":3,
+        "title":"Psychometric Stream Selector",
+        "img":"https://www.careerguide.com/disha/Stream_Selector_Test.jpg",
+        "questions":"76",
+        "minutes":"40",
+        "price":"2000",
+        "discount":"1000",
+        "Button":"For Class 10th"
+},
+    {
+        "id":4,
+        "title":"Psychometric Engineering Selector",
+        "img":"https://www.careerguide.com/disha/engineering-branch-selector.jpg",
+        "questions":"100",
+        "minutes":"60",
+        "price":"2000",
+        "discount":"1000",
+        "Button":"For Class 11th and 12th"
+},
+    {
+        "id":5,
+        "title":"Psychometric Humanities Career Selector",
+        "img":"https://www.careerguide.com/disha/Humanities_Career_Test.png",
+        "questions":"76",
+        "minutes":"60",
+        "price":"2000",
+        "discount":"1000",
+        "Button":"For Class 11th and 12th and B.A."
+},
+    {
+        "id":6,
+        "title":"Psychometric Commerce Career Selector",
+        "img":"https://www.careerguide.com/disha/Commerce_Career_Test.png",
+        "questions":"72",
+        "minutes":"60",
+        "price":"2000",
+        "discount":"1000",
+        "Button":"For Class 11th and 12th and B.Com"
+}
+]

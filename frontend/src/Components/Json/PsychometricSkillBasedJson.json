@@ -1,0 +1,59 @@
+[
+
+
+{
+"id":"1",
+"question":"Which one of these is a JavaScript package manager?",
+"option1":"Node.js",
+"option2":"TypeScript",
+"option3":"npm",
+"option4":"Jsx",
+"answer":"npm"
+},
+{
+"id":"2",
+"question":"What is 10/2?",
+"option1":"3",
+"option2":"5",
+"option3":"115",
+"option4":"6",
+"answer":"5"
+},
+{
+"id":"3",
+"question":"Which tool can you use to ensure code quality?",
+"option1":"Angular",
+"option2":"jQuery",
+"option3":"RequireJS",
+"option4":"ESLint",
+"answer":"ESLint"
+},
+{
+"id":"4",
+"question":"What is the HTML tag under which one can write the JavaScript code? ",
+"option1":"<javascript>",
+"option2":"<scripted>",
+"option3":"<js>",
+"option4":"<script>",
+"answer":"<script>"
+},
+{
+"id":"5",
+"question":"Which one of the following is an ternary operator:",
+"option1":"?",
+"option2":"-",
+"option3":"+",
+"option4":":",
+"answer":"?"
+},
+{
+"id":"6",
+"question":"Which of the following is the correct syntax to display “GeeksforGeeks” in an alert box using JavaScript?",
+"option1":"alertbox(“GeeksforGeeks”); ",
+"option2":"msg(“GeeksforGeeks”); ",
+"option3":"msgbox(“GeeksforGeeks”); ",
+"option4":"alert(“GeeksforGeeks”);",
+"answer":"alert(“GeeksforGeeks”);"
+}
+
+]
